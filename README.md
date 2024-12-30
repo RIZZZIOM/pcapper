@@ -1,4 +1,4 @@
-# 🛠️ PCAPPER: A Network Traffic Sniffing and Analysis Tool
+# 🛠️ PCAPPER
 
 Pcapper is a Python-based tool designed for learning and experimentation with network traffic capture and analysis. 📡 Built with simplicity and functionality in mind, it allows users to sniff network traffic and analyze capture files with powerful features. Whether you're exploring protocols, detecting SYN flood attacks, or extracting HTTP payloads, Pcapper has you covered! 🚀
 
